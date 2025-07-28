@@ -52,4 +52,4 @@ This repository helps me:
 📬 Contact
 GitHub: @isachinpnr
 Email: uttarakhandtechnology@gmail.com
-Portfolio: personalsachin.wordpress.com
+Portfolio: https://personalsachin.wordpress.com
