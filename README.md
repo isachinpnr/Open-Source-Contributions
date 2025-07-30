@@ -1,4 +1,4 @@
-# Open-Source-Contributions
+# Open-Source-Contributions.....
 This is a Repo to show my all open source contributions in one place, if you want to make such of open source contributions connect to us , let's build a out of the box idea together !
 
 # 🚀 Open Source Contributions by Sachin Panwar
@@ -50,6 +50,9 @@ This repository helps me:
 ---
 
 📬 Contact
-GitHub: @isachinpnr
+GitHub: @isachinpnr 
 Email: uttarakhandtechnology@gmail.com
 Portfolio: https://personalsachin.wordpress.com
+x : https://x.com/iSachin_Panwar
+linkedin : https://www.linkedin.com/in/sachin-panwar-6bb38a235/
+leetcode : https://leetcode.com/u/Sachin_Panwar1/
